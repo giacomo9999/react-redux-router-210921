@@ -1,0 +1,3 @@
+export const LOAD_DATA = "LOAD_DATA";
+export const INITIALIZE_GAME = "INITIALIZE_GAME";
+export const UPDATE_GAME_STATUS = "UPDATE_GAME_STATUS";
